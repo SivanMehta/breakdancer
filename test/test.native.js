@@ -1,4 +1,4 @@
-import NativeDancer from './index.native';
+import NativeDancer from '../index.native';
 import assume from 'assume';
 import { Dimensions } from 'react-native';
 
